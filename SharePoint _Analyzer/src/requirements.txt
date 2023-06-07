@@ -1,0 +1,6 @@
+sharepy
+pandas
+tqdm
+openpyxl
+
+"""pip install -r requirements.txt"""
